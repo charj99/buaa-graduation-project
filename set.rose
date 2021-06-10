@@ -1,0 +1,10 @@
+# if you want to builtin tools installed as part of ROSE installation
+ROSE_INSTALL=/home/rose_home/install
+export ROSE_INSTALL 
+
+PATH=$ROSE_INSTALL/bin:$PATH
+export PATH
+
+# if you are using rpath, no need for this 
+LD_LIBRARY_PATH=$ROSE_INSTALL/lib:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH

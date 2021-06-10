@@ -1,0 +1,176 @@
+running heat-3D-7p
+round 1
+time=11.180291s
+round 2
+time=10.925398s
+round 3
+time=11.001548s
+round 4
+time=10.930072s
+round 5
+time=10.945212s
+round 6
+time=10.940980s
+round 7
+time=11.155679s
+round 8
+time=11.196483s
+round 9
+time=10.944172s
+round 10
+time=11.185520s
+
+running poisson-3D-19p
+round 1
+time=33.458140s
+round 2
+time=33.202718s
+round 3
+time=33.458455s
+round 4
+time=33.892380s
+round 5
+time=33.521663s
+round 6
+time=33.242306s
+round 7
+time=33.504949s
+round 8
+time=33.335732s
+round 9
+time=34.031230s
+round 10
+time=33.479088s
+
+running heat-2D-5p
+round 1
+time=4.689237s
+round 2
+time=4.712766s
+round 3
+time=4.688411s
+round 4
+time=4.756152s
+round 5
+time=5.021366s
+round 6
+time=4.852419s
+round 7
+time=4.817381s
+round 8
+time=4.700445s
+round 9
+time=4.647455s
+round 10
+time=4.806342s
+
+running poisson-3D-7p
+round 1
+time=12.461881s
+round 2
+time=12.446648s
+round 3
+time=12.465044s
+round 4
+time=12.433634s
+round 5
+time=12.513184s
+round 6
+time=12.445433s
+round 7
+time=12.448398s
+round 8
+time=12.555202s
+round 9
+time=12.458943s
+round 10
+time=12.429787s
+
+running Laplacian
+round 1
+time=10.946455s
+round 2
+time=9.917506s
+round 3
+time=11.225241s
+round 4
+time=10.015054s
+round 5
+time=11.194047s
+round 6
+time=9.947585s
+round 7
+time=11.199043s
+round 8
+time=11.180182s
+round 9
+time=9.949811s
+round 10
+time=10.043023s
+
+running Hyperthermia
+round 1
+time=48.773267s
+round 2
+time=49.816025s
+round 3
+time=46.760594s
+round 4
+time=48.675317s
+round 5
+time=47.007501s
+round 6
+time=48.753630s
+round 7
+time=46.976704s
+round 8
+time=48.263531s
+round 9
+time=46.860700s
+round 10
+time=47.043774s
+
+running Graident
+round 1
+time=29.584870s
+round 2
+time=29.994092s
+round 3
+time=33.246761s
+round 4
+time=29.627337s
+round 5
+time=30.880359s
+round 6
+time=29.766645s
+round 7
+time=29.789653s
+round 8
+time=29.628878s
+round 9
+time=30.109744s
+round 10
+time=29.793470s
+
+running Divergence
+round 1
+time=14.160308s
+round 2
+time=14.202336s
+round 3
+time=14.181449s
+round 4
+time=14.144444s
+round 5
+time=14.195917s
+round 6
+time=14.159294s
+round 7
+time=14.212845s
+round 8
+time=14.145055s
+round 9
+time=14.166144s
+round 10
+time=14.118191s
+
